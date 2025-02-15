@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yifan Chen"
-  location         : "Earth"
-  employer         : "Beijing University of Posts and Telecommunications"
-  email            : "chenyifan@bupt.edu.cn"
+  location         : "China"
+  bio              : "Beijing University of Posts and Telecommunications"
+  email            : " chenyifan@bupt.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
